@@ -257,7 +257,7 @@ body {
   bottom: 0;
   filter: blur(3px);
   z-index: -1;
-  background-image: url(radiciacao.png);
+  background-image: url(imagenstopicos/radiciacao.png);
   background-blend-mode: darken;
   background-color: rgb(180, 180, 180);
   background-size: 325px;
