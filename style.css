@@ -2,6 +2,7 @@ html,
 body {
   height: 100%;
   margin: 0;
+  font-size: 12px;
 }
 
 .sidebar {
@@ -364,7 +365,7 @@ footer {
   border-radius: 10px;
 }
 
-.paragrafopitagoras {
+.paragrafopitagoras, h4 {
   margin-top: 4%;
   margin-left: 20%;
   margin-bottom: 0%;
