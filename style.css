@@ -24,7 +24,6 @@ body {
 .conteudo {
   width: auto;
   margin-left: 0;
-  height: 170px;
 }
 
 .botao-sidebar-menu {
@@ -89,7 +88,7 @@ body {
 .logo {
   display: flex;
   justify-content: center;
-  align-items: topicos-container center;
+  align-items: center;
 }
 
 #logoindex {
@@ -330,12 +329,12 @@ body {
 
 .conteudo {
   margin-top: 20px;
+  margin-bottom: 2%;
 }
 
 footer {
   display: flex;
   background-color: #f2f2f2;
-  position: fixed;
   bottom: 0;
   width: 100%;
 }
@@ -365,8 +364,9 @@ footer {
 .paragrafopitagoras {
   margin-top: 4%;
   margin-left: 20%;
-  margin-bottom: 10%;
+  margin-bottom: 0%;
   margin-right: 20%;
+  font-size: large;
 }
 
 #retangulo-imc {
